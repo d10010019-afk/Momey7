@@ -1,0 +1,7 @@
+streamlit
+FinMind
+pandas
+plotly
+loguru
+tqdm
+nest_asyncio
